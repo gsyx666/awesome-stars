@@ -580,7 +580,7 @@
 - [lianglixin/SPatch](https://github.com/lianglixin/SPatch) - SPatch a develope tool for WinNT/iOS/Android
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [scoute-dich/browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
-- [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://github.com/limboemu/limbo/wiki for APK download and Instructions.
+- [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
 - [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 - [persilee/android_practice](https://github.com/persilee/android_practice) - Android 文章合集(附带源码和xmind脑图)
 - [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
@@ -629,7 +629,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [TangXiaoLv/Android-Easy-MultiDex](https://github.com/TangXiaoLv/Android-Easy-MultiDex) - [Deprecated] Android，multidex，splitdex，分包插件
 - [LLVM-but-worse/java-disassembler](https://github.com/LLVM-but-worse/java-disassembler) - The Java Disassembler
-- [DylanCaiCoding/LoadingHelper](https://github.com/DylanCaiCoding/LoadingHelper) - A highly expandable Android library for decoupling the code of  toolbar or loading status view.  (深度解耦标题栏或加载中、加载失败、无数据等视图)
+- [DylanCaiCoding/LoadingStateView](https://github.com/DylanCaiCoding/LoadingStateView) - A highly expandable Android library for decoupling the code of  toolbar or loading status view.  (深度解耦标题栏或加载中、加载失败、无数据等视图)
 - [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [RefactoringGuru/design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java) - Design Pattern Examples in Java
@@ -1664,6 +1664,7 @@
 
 ## Others 
 
+- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 🎉 Design patterns for humans 中文版
 - [lubanproj/grpc-read](https://github.com/lubanproj/grpc-read) - grpc 源码解读
 - [yongshun/learn_netty_source_code](https://github.com/yongshun/learn_netty_source_code) - Netty 源码分析教程
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
@@ -2277,7 +2278,7 @@
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [hluwa/FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump) - Fast search and dump dex on memory.
 - [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
-- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
+- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) - :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [aktsk/apkutil](https://github.com/aktsk/apkutil) - a useful utility for android app security testing
