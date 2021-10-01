@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AsciiDoc](#asciidoc)
   - [Assembly](#assembly)
   - [AutoIt](#autoit)
   - [Awk](#awk)
@@ -58,6 +59,10 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [XSLT](#xslt)
+
+## AsciiDoc 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -323,7 +328,7 @@
 - [Mayandev/morec](https://github.com/Mayandev/morec) - 🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.
 - [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 - [WrBug/gitbbs-flutter](https://github.com/WrBug/gitbbs-flutter) - 一款以github仓库为数据源的开源论坛客户端，客户端使用flutter框架进行开发,3分钟即可搭建一个论坛
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
@@ -1668,7 +1673,7 @@
 ## Others 
 
 - [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
-- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 🎉 Design patterns for humans 中文版
+- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版 - 对设计模式的超简单解释
 - [lubanproj/grpc-read](https://github.com/lubanproj/grpc-read) - grpc 源码解读
 - [yongshun/learn_netty_source_code](https://github.com/yongshun/learn_netty_source_code) - Netty 源码分析教程
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
@@ -2310,7 +2315,6 @@
 - [sabri-zaki/EasY_HaCk](https://github.com/sabri-zaki/EasY_HaCk) - Hack the World using Termux
 - [DarkSecDevelopers/HiddenEye-Legacy](https://github.com/DarkSecDevelopers/HiddenEye-Legacy) - Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services  [ Android-Support-Available ]
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [zhaoboy9692/me-tools](https://github.com/zhaoboy9692/me-tools) - 一些小工具，淘宝抓包xposed模块、微信运动、秒杀抢票、table2json、抹机王、flyme助手
