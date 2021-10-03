@@ -16,7 +16,6 @@
   - [CSS](#css)
   - [Cirru](#cirru)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
@@ -310,10 +309,6 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-
-## CoffeeScript 
-
-- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 
 ## Dart 
 
@@ -2028,11 +2023,12 @@
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
 - [1sters/material_design_zh_2](https://github.com/1sters/material_design_zh_2) - Material Design 中文版 ( 2015 年 8 月更新)
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5900+ Material Design Icons from the Community
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6100+ Material Design Icons from the Community
 - [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 - [CameloeAnthony/AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection) - 安卓架构文章合集（a collection of android Architecture）
 - [xiangzhihong/android-Interview](https://github.com/xiangzhihong/android-Interview) - android面试常用面试题，搞定一线二线互联网公司不是梦
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [pengMaster/BestNote](https://github.com/pengMaster/BestNote) - :punch: 持续更新，Java Android 近几年最全面的技术点以及面试题 供自己学习使用
 - [opendigg/awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) - 安卓UI相关开源项目库汇总
 - [HotBitmapGG/AndroidCollectionResource](https://github.com/HotBitmapGG/AndroidCollectionResource) - A popular android resource sorting summary on collected a lot of documents
