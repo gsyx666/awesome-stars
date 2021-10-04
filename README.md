@@ -1311,7 +1311,7 @@
 - [mescp/termux_launcher](https://github.com/mescp/termux_launcher) - termux_launcher
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -1396,7 +1396,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [kartiknair/noize](https://github.com/kartiknair/noize) - Web app for background/white noise to relax or focus
 - [Dorajs/samples](https://github.com/Dorajs/samples) - Dora.js addon samples
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [TyCoding/tumo](https://github.com/TyCoding/tumo) - :rocket: Best Beautiful Java Blog
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
