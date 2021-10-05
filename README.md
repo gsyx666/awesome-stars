@@ -320,7 +320,7 @@
 - [chinabrant/flutter_study](https://github.com/chinabrant/flutter_study) - 学习Flutter的Demo工程，以及Flutter资源集合
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [xfhy/WanAndroid-Flutter](https://github.com/xfhy/WanAndroid-Flutter) - Flutter版本 WanAndroid客户端 适合Flutter入门学习
-- [Mayandev/morec](https://github.com/Mayandev/morec) - 🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.
+- [Mayandev/morec](https://github.com/Mayandev/morec) - 🎥 A beautiful movie application build by flutter.
 - [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 - [WrBug/gitbbs-flutter](https://github.com/WrBug/gitbbs-flutter) - 一款以github仓库为数据源的开源论坛客户端，客户端使用flutter框架进行开发,3分钟即可搭建一个论坛
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -517,6 +517,7 @@
 
 ## Java 
 
+- [yale8848/CacheWebView](https://github.com/yale8848/CacheWebView) - Custom implement Android WebView cache, offline website, let cahe config more simple and  flexible
 - [xiaojinzi123/Component](https://github.com/xiaojinzi123/Component) - 🔥🔥🔥A powerful componentized framework.一个强大、100% 兼容、支持 AndroidX、支持 Kotlin并且灵活的组件化框架
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简单避免OOM的java处理Excel工具
 - [wupeixuan/JDKSourceCode1.8](https://github.com/wupeixuan/JDKSourceCode1.8) - Jdk1.8源码解析
@@ -1462,6 +1463,7 @@
 
 ## Kotlin 
 
+- [AndyJennifer/AndroidxLazyLoad](https://github.com/AndyJennifer/AndroidxLazyLoad) - 😈😈Fragment lazy loading under the android x
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - 
 - [XTLS/AnXray](https://github.com/XTLS/AnXray) - Another Xray for Android.
 - [skydoves/Sandwich](https://github.com/skydoves/Sandwich) - 🥪  A lightweight and standardized Android network response interface for handling successful data and error responses.
@@ -2585,7 +2587,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 一个非常强大的静态导航网站(支持SEO)
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing | 发现导航 , 一个非常强大的静态导航网站(支持SEO)
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
