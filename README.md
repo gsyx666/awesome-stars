@@ -773,7 +773,6 @@
 - [meolunr/MBEStyle](https://github.com/meolunr/MBEStyle) - MBEStyle IconPack
 - [VladThodo/behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design
 - [qinci/AndroidEdit](https://github.com/qinci/AndroidEdit) - Android EditText的撤销和恢复（反撤销）
-- [hanxinhao000/Termux-app-UpgradedVersion](https://github.com/hanxinhao000/Termux-app-UpgradedVersion) - Termux upgrade version
 - [yydcdut/PhotoNoter](https://github.com/yydcdut/PhotoNoter) - :notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)
 - [DexPatcher/dex2jar](https://github.com/DexPatcher/dex2jar) - Unofficial dex2jar builds
 - [JPressProjects/jpress](https://github.com/JPressProjects/jpress) - JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
@@ -2503,7 +2502,7 @@
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) - Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [tiann/docker-aosp](https://github.com/tiann/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [AeonLucid/MagiskFrida](https://github.com/AeonLucid/MagiskFrida) - Runs frida-server on boot as root with magisk.
@@ -2625,7 +2624,7 @@
 ## Vue 
 
 - [inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [yhf7952/WubiGame](https://github.com/yhf7952/WubiGame) - 练习五笔输入法的小工具，包括字根练习、一级简码和二级简码
 - [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
