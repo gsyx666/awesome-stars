@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [zu1k/proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表。欢迎star
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
@@ -1088,7 +1089,7 @@
 - [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android
 - [youlookwhat/ByWebView](https://github.com/youlookwhat/ByWebView) - 🌏  WebView 全方面使用，JS交互、进度条、上传图片、错误页面、视频全屏播放、唤起原生App、获取网页源代码、被作为第三方浏览器打开、DeepLink、[腾讯x5使用示例]
 - [JankingWon/AndroidProject](https://github.com/JankingWon/AndroidProject) - 【入门】中山大学安卓手机应用开发课程项目整理
-- [getActivity/AndroidProject](https://github.com/getActivity/AndroidProject) - Android 技术中台，只为写好每一句代码
+- [getActivity/AndroidProject](https://github.com/getActivity/AndroidProject) - Android 技术中台，但愿人长久，搬砖不再有
 - [ribot/ribot-app-android](https://github.com/ribot/ribot-app-android) - The ribot studio app for the Android Platform
 - [hussien89aa/AndroidTutorialForBeginners](https://github.com/hussien89aa/AndroidTutorialForBeginners) - Step by step to build Android apps using Android Studio
 - [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
@@ -1675,6 +1676,8 @@
 
 ## Others 
 
+- [v2fly/v2fly-github-io](https://github.com/v2fly/v2fly-github-io) - V2Fly Website & Documentation
+- [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step) - This repo is a fork of ToutyRater/v2ray-guide, we aim to provide a new step-by-step guide of v2ray
 - [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
 - [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - Design patterns for humans 中文版 - 对设计模式超简单的解释
 - [lubanproj/grpc-read](https://github.com/lubanproj/grpc-read) - grpc 源码解读
@@ -2031,7 +2034,7 @@
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
 - [1sters/material_design_zh_2](https://github.com/1sters/material_design_zh_2) - Material Design 中文版 ( 2015 年 8 月更新)
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6100+ Material Design Icons from the Community
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6200+ Material Design Icons from the Community
 - [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 - [CameloeAnthony/AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection) - 安卓架构文章合集（a collection of android Architecture）
 - [xiangzhihong/android-Interview](https://github.com/xiangzhihong/android-Interview) - android面试常用面试题，搞定一线二线互联网公司不是梦
@@ -2426,6 +2429,7 @@
 
 ## Shell 
 
+- [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance) - 《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
@@ -2444,7 +2448,6 @@
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
 - [alibaba/dragonwell8](https://github.com/alibaba/dragonwell8) - Alibaba Dragonwell8 JDK
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
-- [WMCB-Tech/debdroid-old](https://github.com/WMCB-Tech/debdroid-old) - [MOVED] Debian for Android Devices 🍥🐧📲
 - [A-BenMao/pure-bash-bible-zh_CN](https://github.com/A-BenMao/pure-bash-bible-zh_CN) - 📖 一个纯bash实现外部命令的脚本集合（中文版）【翻译自pure-bash-bible仓库】
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - Java全栈知识架构体系总结
