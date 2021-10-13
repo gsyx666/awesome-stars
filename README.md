@@ -173,6 +173,7 @@
 
 ## C# # 
 
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [justcoding121/titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy) - A cross-platform asynchronous HTTP(S) proxy server in C#.
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -372,7 +373,6 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
@@ -631,7 +631,7 @@
 - [nanchen2251/StudyForAndroid](https://github.com/nanchen2251/StudyForAndroid) - :fire: Study + Android + 学习资源 + 百科全书 + 持续更新干货
 - [nanchen2251/RxJava2Examples](https://github.com/nanchen2251/RxJava2Examples) - :fire:RxJava2 Examples —— 这可能是从 RxJava1 跳到 RxJava2（学习 RxJava2 ）最好的例子 Demo：https://github.com/nanchen2251/RxJava2Examples
 - [Victory-Over/SuperWeb](https://github.com/Victory-Over/SuperWeb) - Android基于腾讯X5内核的WebView(超级浏览器)，拥有文件上传、下载、浏览（支持PDF/PPT/DOC/EXCEL/TXT格式）、Android与JS的交互、视频播放、自定义进度条、下拉回弹等功能
-- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework.
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [nisrulz/android-examples](https://github.com/nisrulz/android-examples) - :shipit: [Examples] Simple basic isolated apps, for budding android devs.
 - [inuter/Maven-Notebook](https://github.com/inuter/Maven-Notebook) - 《Maven手册》示例工程代码
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -1474,6 +1474,7 @@
 
 ## Kotlin 
 
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [AndyJennifer/AndroidxLazyLoad](https://github.com/AndyJennifer/AndroidxLazyLoad) - 😈😈Fragment lazy loading under the android x
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - 
 - [XTLS/AnXray](https://github.com/XTLS/AnXray) - Another Xray for Android.
@@ -1680,6 +1681,9 @@
 
 ## Others 
 
+- [hadyang/interview](https://github.com/hadyang/interview) - Java 笔试、面试 知识整理
+- [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 - [xiaolai/a-new-english-reading-handbook](https://github.com/xiaolai/a-new-english-reading-handbook) - 《新编英语阅读手册》叶永昌（主编）
 - [WuFengXue/android-reverse](https://github.com/WuFengXue/android-reverse) - 安卓逆向工具汇总 / Awsome Android Reverse Tools
 - [CodingDocs/awesome-idea-tutorial](https://github.com/CodingDocs/awesome-idea-tutorial) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。
@@ -1823,6 +1827,7 @@
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) - 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
 - [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [china-kook/Skill-learn-collect](https://github.com/china-kook/Skill-learn-collect) - Collection of relating to skills
 - [qpython-android/qpython3](https://github.com/qpython-android/qpython3) - QPython is the Python engine for android. QPython 3x is mainly for experienced Python users, and it provides some in-depth technical features.
 - [xingchenpro/MindManager](https://github.com/xingchenpro/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品，也是一件艺术品。
@@ -1995,7 +2000,6 @@
 - [wuxiaosu/MvnRepository](https://github.com/wuxiaosu/MvnRepository) - 自己用 github 搭建的 mvn 仓库，以及怎么在 github 上搭建个人 mvn 仓库。
 - [dbader/readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [weiyinfu/MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) - :fire: A awesome  android expert interview questions and answers（continuous updating ...）
 - [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集
@@ -2179,6 +2183,7 @@
 
 ## Python 
 
+- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [hhstore/annotated-py-projects](https://github.com/hhstore/annotated-py-projects) - flask/sanic/asyncio/bottle/webpy 大量项目 源码阅读注释合集
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
@@ -2609,7 +2614,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing | 发现导航 , 一个非常强大的静态导航网站(支持SEO)
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 一个非常强大的静态导航网站(支持SEO)  | Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
