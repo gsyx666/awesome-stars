@@ -18,7 +18,6 @@
   - [Clojure](#clojure)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
-  - [EJS](#ejs)
   - [FreeMarker](#freemarker)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -335,10 +334,6 @@
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [ShaunLWM/action-release-debugapk](https://github.com/ShaunLWM/action-release-debugapk) - 🕷 Build and release debug APK from your Android project
 
-## EJS 
-
-- [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
-
 ## FreeMarker 
 
 - [monkeylord/XposedTemplateForAS](https://github.com/monkeylord/XposedTemplateForAS) - 自动化创建Xposed模块及钩子，让Xposed模块编写时只需关注钩子实现。Xposed Android Studio Template, automatic module creating along with some useful code.
@@ -525,6 +520,7 @@
 
 ## Java 
 
+- [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
 - [rometools/rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
 - [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
@@ -1394,6 +1390,7 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [Jackie1123/aNavigation](https://github.com/Jackie1123/aNavigation) - 单纯就是一个导航。
 - [suyan/suyan.github.io](https://github.com/suyan/suyan.github.io) - My Blog.
+- [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
 - [sqlsec/Django-Hexo-Matery](https://github.com/sqlsec/Django-Hexo-Matery) - 尝试用Django3重写的我的Hexo博客，使用的前端主题是 Matery。
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [lateautumn4lin/Review_Reverse](https://github.com/lateautumn4lin/Review_Reverse) - :wave:2019年末总结下今年做过的逆向，整理代码，复习思路。:pray:拼夕夕Web端anti_content参数逆向分析:japanese_goblin: WEB淘宝sign逆向分析；:smiley_cat:努比亚Cookie生成逆向分析；:raised_hands:百度指数data加密逆向分析 :footprints:今日头条WEB端_signature、as、cp参数逆向分析:notes:知乎登录formdata加密逆向分析 :clown_face:KNN猫眼字体反爬:tongue:Boss直聘Cookie加密字段__zp_stoken__逆向分析
@@ -2655,6 +2652,7 @@
 
 ## Vue 
 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
