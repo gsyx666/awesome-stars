@@ -331,7 +331,6 @@
 
 ## Dockerfile 
 
-- [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [ShaunLWM/action-release-debugapk](https://github.com/ShaunLWM/action-release-debugapk) - 🕷 Build and release debug APK from your Android project
 
@@ -523,6 +522,7 @@
 
 ## Java 
 
+- [gallonyin/weworkhook](https://github.com/gallonyin/weworkhook) - 企业微信打卡攻略，在Android设备上安装Xposed后hook企业微信获取GPS的参数达到修改定位的目的。注意运行环境仅支持Android设备且已经ROOT+Xposed框架 （未 ROOT 设备可尝试 virtualxposed 中使用） 。（最新支持拍照打卡）本案例仅供学习参考使用，如果有更好的想法和建议欢迎与作者交流！
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
 - [rometools/rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
@@ -1239,6 +1239,7 @@
 
 ## JavaScript 
 
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - 
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 抓取最新前端技术文章，来源：前端早读课、前端大全、前端之巅、淘宝前端、张鑫旭博客、凹凸实验室等
@@ -1684,6 +1685,7 @@
 
 ## Others 
 
+- [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic IT resources
 - [DingMr/SmartTubeNext](https://github.com/DingMr/SmartTubeNext) - Better YouTube experience on Android TV
 - [CPdogson/996.law](https://github.com/CPdogson/996.law) - 
 - [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD) - 列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据
@@ -2446,6 +2448,7 @@
 
 ## Shell 
 
+- [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) - Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)
 - [DoctorLai/Teaching-Kids-Programming](https://github.com/DoctorLai/Teaching-Kids-Programming) - Teaching Kids Programming / Teaching Wife Programming
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
@@ -2455,6 +2458,7 @@
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [dravenww/curated-article](https://github.com/dravenww/curated-article) - 收集各大技术社区网站每日热文
 - [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
+- [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [sickcodes/Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
