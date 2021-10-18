@@ -84,6 +84,7 @@
 
 ## C 
 
+- [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
 - [mborgerson/xemu](https://github.com/mborgerson/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
@@ -419,6 +420,8 @@
 
 ## HTML 
 
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) - 老生常谈，节约您的搜索时间。Laosheng.top 老生常谈云媒体，报纸电视送给你。（大萌阅报栏）　有关部门网站与服务电话大全，中国千县地名数据库。　大萌望海楼，找法不用愁。提供高质量的可打印文本，中国法律简目。　老生常谈排行榜，打开真正互联的网！千锤百炼的的上一代互联网导航。　There is only one heroism in the world : it's to see the world as it is, and to love it. 😤
 - [saylordotorg/text_managerial-accounting](https://github.com/saylordotorg/text_managerial-accounting) - Managerial Accounting
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
@@ -1239,6 +1242,9 @@
 
 ## JavaScript 
 
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
+- [apachecn/apachecn-kali-zh](https://github.com/apachecn/apachecn-kali-zh) - 
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - 
@@ -1495,7 +1501,6 @@
 - [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) - 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [mCyp/Hoo](https://github.com/mCyp/Hoo) - 🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~
-- [HuRuWo/WeChat8Xposed](https://github.com/HuRuWo/WeChat8Xposed) - WeChat8Xposed 是 WechatSpellbook的衍生项目 适配最新的微信 原Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。
 - [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - Gradle plugin that configures an uploadArchives task to automatically upload all of your Java, Kotlin or Android libraries to any Maven instance.
 - [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell) - Java REPL on Android with BeanShell
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries is a library to offer some information of libraries.
@@ -1685,6 +1690,10 @@
 
 ## Others 
 
+- [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+- [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
+- [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube.
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic IT resources
 - [DingMr/SmartTubeNext](https://github.com/DingMr/SmartTubeNext) - Better YouTube experience on Android TV
 - [CPdogson/996.law](https://github.com/CPdogson/996.law) - 
@@ -1738,7 +1747,6 @@
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [venshine/AndroidNote](https://github.com/venshine/AndroidNote) - 🔥 Android 进阶笔记，包含常用的技术框架、博客社区、书籍等。
 - [hyqyoung/computer-vision-in-action](https://github.com/hyqyoung/computer-vision-in-action) - 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）
-- [zhudongya123/WechatChatRoomHelper_Tutorial](https://github.com/zhudongya123/WechatChatRoomHelper_Tutorial) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [datawhalechina/leeml-notes](https://github.com/datawhalechina/leeml-notes) - 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes
 - [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
@@ -1856,7 +1864,7 @@
 - [hansonwang99/JavaCollection](https://github.com/hansonwang99/JavaCollection) - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
 - [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
-- [darbra/sign](https://github.com/darbra/sign) - 逆向app的sign等参数的思路和体验, 安卓逆向, 安卓破解, 逆向app,爬虫解密
+- [darbra/sign](https://github.com/darbra/sign) - 逆向app参数的思路和体验，安卓逆向
 - [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -2191,6 +2199,7 @@
 
 ## Python 
 
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [hhstore/annotated-py-projects](https://github.com/hhstore/annotated-py-projects) - flask/sanic/asyncio/bottle/webpy 大量项目 源码阅读注释合集
@@ -2381,7 +2390,7 @@
 - [taobao/nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [xiexie1993/code_studio_python_crack_wifi_password](https://github.com/xiexie1993/code_studio_python_crack_wifi_password) - python3密码字典匹配破解wifi密码
@@ -2664,7 +2673,7 @@
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [yhf7952/WubiGame](https://github.com/yhf7952/WubiGame) - 练习五笔输入法的小工具，包括字根练习、一级简码和二级简码
 - [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
