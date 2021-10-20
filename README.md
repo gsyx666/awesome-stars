@@ -1242,6 +1242,8 @@
 
 ## JavaScript 
 
+- [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [apachecn/apachecn-kali-zh](https://github.com/apachecn/apachecn-kali-zh) - 
@@ -1485,6 +1487,7 @@
 
 ## Kotlin 
 
+- [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [AndyJennifer/AndroidxLazyLoad](https://github.com/AndyJennifer/AndroidxLazyLoad) - 😈😈Fragment lazy loading under the android x
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - 
@@ -1866,7 +1869,7 @@
 - [hansonwang99/JavaCollection](https://github.com/hansonwang99/JavaCollection) - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
 - [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
-- [darbra/sign](https://github.com/darbra/sign) - 逆向app参数的思路和体验，安卓逆向
+- [darbra/sign](https://github.com/darbra/sign) - 逆向app参数的思路和体验，安卓逆向，【已删除】
 - [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -2201,6 +2204,7 @@
 
 ## Python 
 
+- [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2546,7 +2550,7 @@
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) - Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [tiann/docker-aosp](https://github.com/tiann/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [AeonLucid/MagiskFrida](https://github.com/AeonLucid/MagiskFrida) - Runs frida-server on boot as root with magisk.
