@@ -56,6 +56,7 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [VimL](#viml)
+  - [Visual Basic](#visual-basic)
   - [Vue](#vue)
   - [XSLT](#xslt)
 
@@ -188,6 +189,7 @@
 
 ## C++ 
 
+- [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -1487,6 +1489,7 @@
 
 ## Kotlin 
 
+- [Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen) - 🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [AndyJennifer/AndroidxLazyLoad](https://github.com/AndyJennifer/AndroidxLazyLoad) - 😈😈Fragment lazy loading under the android x
@@ -1694,6 +1697,7 @@
 
 ## Others 
 
+- [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
@@ -2673,6 +2677,10 @@
 
 - [jez/vim-as-an-ide](https://github.com/jez/vim-as-an-ide) - Workshop on how to use Vim Plugins.
 - [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
+
+## Visual Basic 
+
+- [w2sft/Ty2yAntiVirus](https://github.com/w2sft/Ty2yAntiVirus) - 
 
 ## Vue 
 
