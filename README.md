@@ -85,6 +85,7 @@
 
 ## C 
 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
 - [mborgerson/xemu](https://github.com/mborgerson/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
@@ -255,7 +256,6 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 - [smallsun107/AndroidShell](https://github.com/smallsun107/AndroidShell) - 
-- [Lzhiyong/termux-ndk](https://github.com/Lzhiyong/termux-ndk) - android-ndk for termux
 - [asLody/whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 - [tranleduy2000/c_cpp_compiler](https://github.com/tranleduy2000/c_cpp_compiler) - GNU C/C++ compiler on Android, full offline compiler, Learn to code on the go.
@@ -527,6 +527,8 @@
 
 ## Java 
 
+- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
+- [wallabag/android-app](https://github.com/wallabag/android-app) - Android application to read your articles saved in your wallabag. You can also easily add new articles.
 - [gallonyin/weworkhook](https://github.com/gallonyin/weworkhook) - 企业微信打卡攻略，在Android设备上安装Xposed后hook企业微信获取GPS的参数达到修改定位的目的。注意运行环境仅支持Android设备且已经ROOT+Xposed框架 （未 ROOT 设备可尝试 virtualxposed 中使用） 。（最新支持拍照打卡）本案例仅供学习参考使用，如果有更好的想法和建议欢迎与作者交流！
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
@@ -775,7 +777,7 @@
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 - [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView) - Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
 - [canghailan/android-manifest-parser](https://github.com/canghailan/android-manifest-parser) - 一个纯Java、实现了SAX接口、无任何第三方依赖的 AndroidManifest.xml 解析工具。
-- [mynerdd/Android-LockScreenSample-DisableHomeButtonKey](https://github.com/mynerdd/Android-LockScreenSample-DisableHomeButtonKey) - Android LockScreen Sample Using Service - Disable HomeButton or HomeKey
+- [hmm-umm/Android-LockScreenSample-DisableHomeButtonKey](https://github.com/hmm-umm/Android-LockScreenSample-DisableHomeButtonKey) - Android LockScreen Sample Using Service - Disable HomeButton or HomeKey
 - [intoolswetrust/jd-cli](https://github.com/intoolswetrust/jd-cli) - Command line Java Decompiler
 - [cbeust/jcommander](https://github.com/cbeust/jcommander) - Command line parsing framework for Java
 - [KB5201314/ZjDroid](https://github.com/KB5201314/ZjDroid) - 📲 A modified version of Zjdroid, which allows dump dex on the ART virtual machine
@@ -1244,6 +1246,9 @@
 
 ## JavaScript 
 
+- [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
+- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -1489,6 +1494,7 @@
 
 ## Kotlin 
 
+- [zyj1609wz/Startup](https://github.com/zyj1609wz/Startup) - android 启动库
 - [Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen) - 🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
@@ -1697,6 +1703,7 @@
 
 ## Others 
 
+- [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
@@ -2208,6 +2215,8 @@
 
 ## Python 
 
+- [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
+- [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2326,7 +2335,7 @@
 - [kin9-0rz/apkutils](https://github.com/kin9-0rz/apkutils) - 一个解析APK相关文件的库，最新代码请参考gitee的工程或者pypi，github同步较慢。
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
-- [AshishRanaX/elf_analysis](https://github.com/AshishRanaX/elf_analysis) - Perform Static and dynamic analysis on 32 bit ELF binary, and automate the process of stack based overflow exploitation.
+- [RanaCyberLabs/elf_analysis](https://github.com/RanaCyberLabs/elf_analysis) - Perform Static and dynamic analysis on 32 bit ELF binary, and automate the process of stack based overflow exploitation.
 - [ViRb3/apk-utilities](https://github.com/ViRb3/apk-utilities) - 🛠 Tools and scripts to manipulate Android APKs
 - [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Android Malware (Analysis | Scoring) System
 - [eliben/pyelftools](https://github.com/eliben/pyelftools) - Parsing ELF and DWARF in Python
@@ -2496,7 +2505,7 @@
 - [jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳Docker入门学习笔记
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 - [tonydeng/sdn-handbook](https://github.com/tonydeng/sdn-handbook) - SDN手册
-- [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - linux系统自动化应急响应工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程检查等12类70项检查
+- [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 - [RokasUrbelis/docker-wine-linux](https://github.com/RokasUrbelis/docker-wine-linux) - :boom::whale::fire:Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，适用于所有发行版------- Best wine-QQ/TIM/Wechat for all Linux distros
 - [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
 - [studygolang/GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
@@ -2607,6 +2616,7 @@
 
 ## TeX 
 
+- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 - [zhanwen/MathModel](https://github.com/zhanwen/MathModel) - 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
 - [merely-useful/py-rse](https://github.com/merely-useful/py-rse) - Research Software Engineering with Python course material
