@@ -86,6 +86,7 @@
 
 ## C 
 
+- [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -198,6 +199,8 @@
 
 ## C++ 
 
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+- [RikkaApps/Riru](https://github.com/RikkaApps/Riru) - Inject into zygote process
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -433,6 +436,7 @@
 
 ## HTML 
 
+- [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) - 老生常谈，节约您的搜索时间。Laosheng.top 老生常谈云媒体，报纸电视送给你。（大萌阅报栏）　有关部门网站与服务电话大全，中国千县地名数据库。　大萌望海楼，找法不用愁。提供高质量的可打印文本，中国法律简目。　老生常谈排行榜，打开真正互联的网！千锤百炼的的上一代互联网导航。　There is only one heroism in the world : it's to see the world as it is, and to love it. 😤
 - [saylordotorg/text_managerial-accounting](https://github.com/saylordotorg/text_managerial-accounting) - Managerial Accounting
@@ -537,6 +541,8 @@
 
 ## Java 
 
+- [GoogleChrome/custom-tabs-client](https://github.com/GoogleChrome/custom-tabs-client) - Chrome custom tabs examples
+- [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper) - The Android Browser Helper library helps developers use Custom Tabs and Trusted Web Activities on top of the AndroidX browser support library.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [vimasig/Bozar](https://github.com/vimasig/Bozar) - Java bytecode obfuscator with GUI
 - [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
@@ -584,7 +590,6 @@
 - [Justson/AgentWeb](https://github.com/Justson/AgentWeb) - AgentWeb is a powerful library based on Android WebView.
 - [WangDaYeeeeee/Mysplash](https://github.com/WangDaYeeeeee/Mysplash) - An Unsplash Client
 - [lightbody/browsermob-proxy](https://github.com/lightbody/browsermob-proxy) - A free utility to help web developers watch and manipulate network traffic from their AJAX applications.
-- [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper) - The Android Browser Helper library helps developers use Custom Tabs and Trusted Web Activities on top of the AndroidX browser support library.
 - [anysoft/xposed-rimet](https://github.com/anysoft/xposed-rimet) - 这是一个钉钉的Xposed模块项目
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [sky-wei/xposed-rimet](https://github.com/sky-wei/xposed-rimet) - 这是一个钉钉的Xposed模块项目
@@ -633,6 +638,7 @@
 - [oschina/kooder](https://github.com/oschina/kooder) - 🔍An open source GitLab/Gitee/Gitea code search tool. Kooder 是一个为 Gitee/GitLab 开发的开源代码搜索工具，这是一个镜像仓库，主仓库在 Gitee。
 - [hmkcode/Android](https://github.com/hmkcode/Android) - Android related examples
 - [leosanqing/Java-Notes](https://github.com/leosanqing/Java-Notes) - java学习笔记，包括JVM，看过的技术以及非技术书籍，SpringCloud 商城项目以及工具介绍，leetcode剑指offer算法，spring，JDK一些工具的源码，
+- [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.0
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [zion223/NeteaseCloudMusic-MVVM](https://github.com/zion223/NeteaseCloudMusic-MVVM) - Jetpack MVVM最佳实践 - 重构仿网易云音乐安卓客户端
@@ -1355,7 +1361,7 @@
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [mescp/termux_launcher](https://github.com/mescp/termux_launcher) - termux_launcher
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -1545,7 +1551,6 @@
 - [Hankkin/Reading](https://github.com/Hankkin/Reading) - 🍑Reading是一款基于WanAndroid OpenApi开发的阅读类工具，如果你是一个热衷于Android开发者，那么这款软件能帮助你阅读精品Android文章。     同时Reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"Kotlin+MVP"架构开发，风格大概也许属于Material Desgin原质化风格，包含主题颜色切换、百变Logo、         等功能。在此感谢WanAndroid的OpenApi,以及其它开源项目的贡献。
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
-- [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.0
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples) - Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.
 - [MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) - An example project to demonstrate how to build WhatsApp using Jetpack Compose.
@@ -1638,7 +1643,6 @@
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [tsukiseele/MoeViewerR](https://github.com/tsukiseele/MoeViewerR) - 订阅式的漫画阅读应用，可支持Exhentai，以及Yande、SankakuComplex等绝大多数Booru图库。
 - [hishoot2i/Hishoot2i](https://github.com/hishoot2i/Hishoot2i) - Hishoot2i
-- [jeffreystoke/openct-android](https://github.com/jeffreystoke/openct-android) - open class table for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Lesincs/SimpleFilmReview](https://github.com/Lesincs/SimpleFilmReview) - 完全以kotlin实现的Android影评App, MVP+RXKotlin+Retrofit
 - [Lesincs/SimpleRead](https://github.com/Lesincs/SimpleRead) - 以Kotlin实现的简单纯净的阅读软件,主要使用到RxJava+Retrofit+RxLifecycle+Glide+GreenDao等技术
@@ -1772,7 +1776,7 @@
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
-- [huangruiLearn/hrl_android_notes](https://github.com/huangruiLearn/hrl_android_notes) - 整理下碰到的一些面试题和基础知识
+- [huangruiLearn/hrl_android_notes](https://github.com/huangruiLearn/hrl_android_notes) - 整理下一些基础知识
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [lllhhh/BooksKeeper](https://github.com/lllhhh/BooksKeeper) - 对各类图书资源的收集。大量计算机、AI方面书籍。
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
