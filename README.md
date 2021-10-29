@@ -544,6 +544,8 @@
 
 ## Java 
 
+- [vidstige/jadb](https://github.com/vidstige/jadb) - ADB Client in pure Java.
+- [guyijie1211/JustLive-Android](https://github.com/guyijie1211/JustLive-Android) - 📱一个整合国内多个直播平台内容的App
 - [acmenlt/dynamic-threadpool](https://github.com/acmenlt/dynamic-threadpool) - 🔥 强大的动态线程池，并附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.
 - [guardianproject/NetCipher](https://github.com/guardianproject/NetCipher) - mirror of https://gitlab.com/guardianproject/NetCipher/
 - [pengwei1024/JsBridge](https://github.com/pengwei1024/JsBridge) - A simpler, extendable bidirectional communication Frame between Android WebView and Javascript
@@ -560,7 +562,6 @@
 - [rometools/rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
 - [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
-- [guyijie1211/JustLive-Android](https://github.com/guyijie1211/JustLive-Android) - 📱一个整合国内多个直播平台内容的App
 - [yale8848/CacheWebView](https://github.com/yale8848/CacheWebView) - Custom implement Android WebView cache, offline website, let cahe config more simple and  flexible
 - [xiaojinzi123/Component](https://github.com/xiaojinzi123/Component) - 🔥🔥🔥A powerful componentized framework.一个强大、100% 兼容、支持 AndroidX、支持 Kotlin并且灵活的组件化框架
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简单避免OOM的java处理Excel工具
@@ -1311,7 +1312,7 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），4000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [filipeisho/pronounce](https://github.com/filipeisho/pronounce) - Never doubt how to pronounce a word. Double-click it and your browser will say it out loud for you!
@@ -1336,7 +1337,6 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
@@ -1521,6 +1521,9 @@
 
 ## Kotlin 
 
+- [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
+- [huannan/XArch](https://github.com/huannan/XArch) - 🔥Android架构最佳实践
+- [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
 - [hazuki0x0/YuzuBrowser](https://github.com/hazuki0x0/YuzuBrowser) - Customizable browser for android
 - [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
@@ -2336,7 +2339,7 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [SystemsApproach/book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
@@ -2431,7 +2434,7 @@
 - [HelloGitHub-Team/HelloDjango-blog-tutorial](https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial) - 免费带你学 django 全栈！基于 django 2.2 的个人博客，初学者绝对不能错过的 django 教程！｡◕ᴗ◕｡
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [hanbinglengyue/FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -2678,6 +2681,7 @@
 - [acrlakshman/profileio](https://github.com/acrlakshman/profileio) - Static site and resume generator from YAML based profile for students and researchers. Generates ready to deploy branches via github actions.
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
+- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
