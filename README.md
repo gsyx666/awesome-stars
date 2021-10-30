@@ -357,6 +357,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 - [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [996BC/996.Blockchain](https://github.com/996BC/996.Blockchain) - Blockchain for the 996 evidence
@@ -544,6 +545,7 @@
 
 ## Java 
 
+- [Ryan-Shz/FastWebView](https://github.com/Ryan-Shz/FastWebView) - 自定义本地缓存策略和资源加载策略，突破原生WebView缓存限制，实现多种缓存模式，支持离线加载和预加载，可大幅提升加载速度。
 - [vidstige/jadb](https://github.com/vidstige/jadb) - ADB Client in pure Java.
 - [guyijie1211/JustLive-Android](https://github.com/guyijie1211/JustLive-Android) - 📱一个整合国内多个直播平台内容的App
 - [acmenlt/dynamic-threadpool](https://github.com/acmenlt/dynamic-threadpool) - 🔥 强大的动态线程池，并附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.
@@ -1310,7 +1312,7 @@
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
-- [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），4000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1521,6 +1523,7 @@
 
 ## Kotlin 
 
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [huannan/XArch](https://github.com/huannan/XArch) - 🔥Android架构最佳实践
 - [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
@@ -1550,7 +1553,7 @@
 - [mCyp/Hoo](https://github.com/mCyp/Hoo) - 🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~
 - [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) - Gradle plugin that configures an uploadArchives task to automatically upload all of your Java, Kotlin or Android libraries to any Maven instance.
 - [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell) - Java REPL on Android with BeanShell
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries is a library to offer some information of libraries.
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically detects all dependencies of a project and collects their information including the license. Optionally visualising it via the provided ui components.
 - [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
 - [google/flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests
@@ -1639,7 +1642,7 @@
 - [VergeDX/ThemeApplyTools](https://github.com/VergeDX/ThemeApplyTools) - MIUI 无 root 主题工具
 - [YouROK/M3U8Loader](https://github.com/YouROK/M3U8Loader) - M3U8 Loader
 - [ollide/intellij-java2smali](https://github.com/ollide/intellij-java2smali) - A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali.
-- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
+- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [godtoy/wework-hook-example](https://github.com/godtoy/wework-hook-example) - 企业微信xposed-hook，企业微信Hook，消息收发，自动爆粉
 - [JoshCai233/MDWechat](https://github.com/JoshCai233/MDWechat) - 一个能让微信 Material Design 化的 Xposed 模块
 - [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
@@ -1737,6 +1740,8 @@
 
 ## Others 
 
+- [0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document) - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
+- [Autoware-AI/autoware.ai](https://github.com/Autoware-AI/autoware.ai) - Open-source software for self-driving vehicles
 - [slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [rby90/project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
