@@ -86,6 +86,7 @@
 
 ## C 
 
+- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
@@ -314,7 +315,6 @@
 - [Blankj/resume](https://github.com/Blankj/resume) - :tada: An resume template for Android developers.
 - [zhaoolee/GBlog](https://github.com/zhaoolee/GBlog) - zhaoolee基于github仓库的博客
 - [minixalpha/StrayBirds](https://github.com/minixalpha/StrayBirds) - Blog templates based on GitHub Pages
-- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [EZLippi/EZLippi.github.io](https://github.com/EZLippi/EZLippi.github.io) - 这是我的个人网站的源码，欢迎fork。
 - [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
@@ -1279,6 +1279,7 @@
 
 ## JavaScript 
 
+- [USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups) - 中国科学技术大学第八届信息安全大赛的官方与非官方题解
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
@@ -1704,6 +1705,7 @@
 ## Less 
 
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
+- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
 ## Lua 
 
@@ -1747,6 +1749,7 @@
 
 ## Others 
 
+- [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [NebuTech/NBMiner](https://github.com/NebuTech/NBMiner) - NVIDIA & AMD GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO
@@ -2266,6 +2269,7 @@
 
 ## Python 
 
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
