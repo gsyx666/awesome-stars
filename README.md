@@ -74,7 +74,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11  Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
 
 ## Awk 
 
@@ -533,7 +533,7 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io) - Liberxue blog for lightweight Jekyll  themes  轻量级自适应 简洁 卡片式博客主题 3秒搞定GitHub blog
 - [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
-- [sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [yiminghe/learning-react](https://github.com/yiminghe/learning-react) - materials about learning react
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
@@ -1187,7 +1187,7 @@
 - [dmarszk/sdkmanager](https://github.com/dmarszk/sdkmanager) - Android SDK repositories fetcher for Android. Application made entirely on a mobile phone using AIDE.
 - [graphaware/graph-aided-search](https://github.com/graphaware/graph-aided-search) - Elasticsearch plugin offering Neo4j integration for Personalized Search
 - [patilswapnilv/TerminalIDE](https://github.com/patilswapnilv/TerminalIDE) - C, C++, Java IDE for Android devices
-- [zacharyching/TermuxWithGradle](https://github.com/zacharyching/TermuxWithGradle) - Using gradle to build apk in Android
+- [zacharychin233/TermuxWithGradle](https://github.com/zacharychin233/TermuxWithGradle) - Using gradle to build apk in Android
 - [xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather) - :partly_sunny: [@Deprecated]RxJava+RxBus+Retrofit+Glide+Material Design Weather App
 - [antoniy/Gidder](https://github.com/antoniy/Gidder) - Git server for Android
 - [Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
@@ -1529,6 +1529,7 @@
 
 ## Kotlin 
 
+- [mertceyhan/bitcoin-market-android](https://github.com/mertceyhan/bitcoin-market-android) - Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals 💰
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
@@ -2561,7 +2562,7 @@
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - Java全栈知识架构体系总结
 - [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) - 计算机公开课推荐
-- [jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳Docker入门学习笔记
+- [jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 - [tonydeng/sdn-handbook](https://github.com/tonydeng/sdn-handbook) - SDN手册
 - [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
