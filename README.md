@@ -152,7 +152,7 @@
 - [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
 - [BruceWind/AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt) - Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}
 - [DimaKoz/stunning-signature](https://github.com/DimaKoz/stunning-signature) - Native Signature Verification For Android (with example)
-- [aquynh/capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [KYHSGeekCode/Android-Disassembler](https://github.com/KYHSGeekCode/Android-Disassembler) - Disassemble ANY files including .so (NDK, JNI), Windows PE(EXE, DLL, SYS, etc), linux binaries,  libraries, and any other files such as pictures, audios, etc(for fun)files on Android. Capstone-based disassembler application on android. 안드로이드 NDK 공유 라이브러리, Windows 바이너리, etc,... 리버싱 앱
 - [ddsbear/AnyNdk](https://github.com/ddsbear/AnyNdk) - :fire: Android native library, make your development faster and easier.     Android各种native库，让你的开发更快更简单
 - [smartdone/dexdump](https://github.com/smartdone/dexdump) - 快速脱一代壳的xposed插件
@@ -556,6 +556,7 @@
 - [fordes123/subtitles-view](https://github.com/fordes123/subtitles-view) - 基于javaFX的简单字幕处理桌面程序，集成在线翻译及语音转换
 - [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
 - [jasonkung0211/launcher3](https://github.com/jasonkung0211/launcher3) - 
+- [Skykai521/AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual) - Android 工程师进阶手册（8 年 Android 开发者的成长感悟）
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - 
 - [Ryan-Shz/FastWebView](https://github.com/Ryan-Shz/FastWebView) - 自定义本地缓存策略和资源加载策略，突破原生WebView缓存限制，实现多种缓存模式，支持离线加载和预加载，可大幅提升加载速度。
 - [vidstige/jadb](https://github.com/vidstige/jadb) - ADB Client in pure Java.
@@ -646,7 +647,7 @@
 - [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [Shouheng88/MarkNote](https://github.com/Shouheng88/MarkNote) - 📑MarkNote: An open sourced markdown note-taking application for Android, support many features for markdown notes, mathjax, table, list etc.
-- [youlookwhat/CloudReader](https://github.com/youlookwhat/CloudReader) - 🗡️  云阅：一款基于网易云音乐UI，使用玩Android、Gank.Io Api，MVVM-DataBinding架构开发的符合Google Material Design的Android客户端
+- [youlookwhat/CloudReader](https://github.com/youlookwhat/CloudReader) - 🗡️  云阅：一款基于网易云音乐UI，使用玩Android Api，MVVM-DataBinding架构开发的符合Google Material Design的Android客户端
 - [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [naman14/Timber](https://github.com/naman14/Timber) - Material Design Music Player
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) - ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
@@ -1285,6 +1286,7 @@
 
 ## JavaScript 
 
+- [Nixiak-nan/show_ranking](https://github.com/Nixiak-nan/show_ranking) - 一款浏览器插件，支持在各种论文网站显示会议、期刊等级。支持的排名有：西南财经大学，中央财经大学，复旦大学，上海交通大学，西南交通大学，对外经济贸易大学，SCI，SCI影响因子，中国科学引文数据库。支持的网站有：谷歌学术，微软学术，知网，Springer，IEEExplore，ACM，DBLP，web of science，百度学术，Aminer。
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
 - [USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups) - 中国科学技术大学第八届信息安全大赛的官方与非官方题解
@@ -1537,6 +1539,8 @@
 
 ## Kotlin 
 
+- [google-developer-training/android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps) - android-kotlin-fundamentals-starter-apps
+- [Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [kdrag0n/android12-extensions](https://github.com/kdrag0n/android12-extensions) - Enable and customize hidden features on Android 12.
 - [mertceyhan/bitcoin-market-android](https://github.com/mertceyhan/bitcoin-market-android) - Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals 💰
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
@@ -1745,7 +1749,7 @@
 
 ## Objective-C 
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [Tencent/vap](https://github.com/Tencent/vap) - VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
 - [zydeco/aah](https://github.com/zydeco/aah) - arm64 architecture handler
@@ -1759,13 +1763,14 @@
 
 ## Others 
 
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [iamthefrogy/FYI](https://github.com/iamthefrogy/FYI) - My last 10 year's material collection on offensive & defensive security, GRC, risk management, technical security guidelines and much more.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [Kensuke-Hinata/statistic](https://github.com/Kensuke-Hinata/statistic) - collecting books, papers and docs.
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [Skykai521/AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual) - Android 工程师进阶手册（8 年 Android 开发者的成长感悟）
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -1805,7 +1810,7 @@
 - [jondot/awesome-weekly](https://github.com/jondot/awesome-weekly) - An "awesome" type curated list of quality weekly subscription newsletters from the software world
 - [KnightAndroid/AndroidStandardCode](https://github.com/KnightAndroid/AndroidStandardCode) - 一款不断自我迭代完善的Android开发代码规范
 - [shadowsocksrr/shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android) - A ShadowsocksR client for Android
-- [knownsec/404StarLink2.0-Galaxy](https://github.com/knownsec/404StarLink2.0-Galaxy) - 404StarLink Project 2.0 - 推荐真正优质、有意义、有趣、坚持维护的开源项目
+- [knownsec/404StarLink2.0-Galaxy](https://github.com/knownsec/404StarLink2.0-Galaxy) - 404StarLink Project - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [zhedahht/OfferOrientedAlgorithms](https://github.com/zhedahht/OfferOrientedAlgorithms) - 《剑指Offer：数据结构与算法名企面试题精讲》
 - [linjiananallnt/SAI](https://github.com/linjiananallnt/SAI) - SAI,Securely aggregate information 一个Chrome插件，用于每天关注知名安全网站文章
 - [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) - 计算机的优秀课程
@@ -2285,6 +2290,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
@@ -2310,7 +2316,7 @@
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - An easy-to-use NLP library with Awesome pre-trained model zoo,  supporting wide-range of NLP tasks from research to industrial applications.
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use NLP library with Awesome pre-trained model zoo,  supporting wide-range of NLP tasks from research to industrial applications.
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
