@@ -16,6 +16,7 @@
   - [CSS](#css)
   - [Cirru](#cirru)
   - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [FreeMarker](#freemarker)
@@ -182,7 +183,7 @@
 - [secmobi/amatutor](https://github.com/secmobi/amatutor) - Android Malware Analysis Tutorial | Android恶意代码分析教程
 - [ErLinErYi/Sokoban](https://github.com/ErLinErYi/Sokoban) - Console Game Application
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
 - [aide/aide](https://github.com/aide/aide) - aide source code
 - [guanchao/AppProtect](https://github.com/guanchao/AppProtect) - 整理一些app常见的加固方法，包括java层、native层和资源文件加固等
@@ -335,6 +336,10 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+
+## CoffeeScript 
+
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
 ## Dart 
 
@@ -718,7 +723,6 @@
 - [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 - [arimorty/floatingsearchview](https://github.com/arimorty/floatingsearchview) - A search view that implements a floating search bar also known as persistent search
 - [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) - :melon: RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
-- [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 - [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
@@ -983,7 +987,7 @@
 - [LeadroyaL/dex-finder](https://github.com/LeadroyaL/dex-finder) - 快速寻找一个类所在 dex 的小工具
 - [tiann/epic](https://github.com/tiann/epic) - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 5.0~11
 - [linkedin/dexmaker](https://github.com/linkedin/dexmaker) - A utility for doing compile or runtime code generation targeting Android's Dalvik VM
-- [kaisar945/Xposed-GodMode](https://github.com/kaisar945/Xposed-GodMode) - 基于Xposed可以实现自定义app界面类似于AdBlock. Based on Xposed, you can implement a custom app interface similar to AdBlock.
+- [kaisar945/Xposed-GodMode](https://github.com/kaisar945/Xposed-GodMode) - A xposed module similar to AdBlock, You can edit the application user interface at will.
 - [skyun1314/ndkjiagu](https://github.com/skyun1314/ndkjiagu) - 
 - [alibaba/dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [asLody/SandHook](https://github.com/asLody/SandHook) - Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 11.0 32/64 bit - Xposed API Compat
@@ -1289,6 +1293,8 @@
 
 ## JavaScript 
 
+- [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
+- [sunoj/jjb](https://github.com/sunoj/jjb) - 一个帮助你自动申请京东价格保护的chrome拓展
 - [Nixiak-nan/show_ranking](https://github.com/Nixiak-nan/show_ranking) - 一款浏览器插件，支持在各种论文网站显示会议、期刊等级。支持的排名有：西南财经大学，中央财经大学，复旦大学，上海交通大学，西南交通大学，对外经济贸易大学，SCI，SCI影响因子，中国科学引文数据库。支持的网站有：谷歌学术，微软学术，知网，Springer，IEEExplore，ACM，DBLP，web of science，百度学术，Aminer。
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
@@ -1912,6 +1918,7 @@
 - [jayli/javascript-patterns](https://github.com/jayli/javascript-patterns) - 
 - [JerryLead/SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
@@ -2716,6 +2723,7 @@
 
 ## TypeScript 
 
+- [kolplattformen/skolplattformen](https://github.com/kolplattformen/skolplattformen) - The source code to the civic tech project Öppna Skolplattformen.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
@@ -2788,9 +2796,10 @@
 
 ## Vue 
 
+- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [yhf7952/WubiGame](https://github.com/yhf7952/WubiGame) - 练习五笔输入法的小工具，包括字根练习、一级简码和二级简码
 - [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
