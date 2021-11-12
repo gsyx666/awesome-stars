@@ -959,7 +959,7 @@
 - [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) - demos to help understand plugin framwork
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [sucese/android-open-source-project-analysis](https://github.com/sucese/android-open-source-project-analysis) - Android open source project analysis. Note: The project has been moved to https://github.com/BeesAndroid/BeesAndroid.
-- [happylishang/CacheEmulatorChecker](https://github.com/happylishang/CacheEmulatorChecker) - Android模拟器检测，检测Android模拟器 ，获取相对真实的IMEI AndroidId 序列号 MAC地址等，作为DeviceID，应对防刷需求等                    How to detect Android emulator
+- [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                    How to detect Android emulator
 - [imcloudfloating/DesignApp](https://github.com/imcloudfloating/DesignApp) - An aplication for learning android design
 - [materialdoccn/materialdoc](https://github.com/materialdoccn/materialdoc) - 
 - [rover12421/ShakaApktool](https://github.com/rover12421/ShakaApktool) - ShakaApktool
@@ -1549,6 +1549,7 @@
 
 ## Kotlin 
 
+- [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [google-developer-training/android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps) - android-kotlin-fundamentals-starter-apps
 - [Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [kdrag0n/android12-extensions](https://github.com/kdrag0n/android12-extensions) - Enable and customize hidden features on Android 12.
@@ -1773,6 +1774,9 @@
 
 ## Others 
 
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+- [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总
+- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs. // Дорожная карта по изучению языка программирования C++ для начинающих и практикующих.
 - [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide) - 「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -1844,7 +1848,7 @@
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions) - 2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。
-- [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [389273716/android-skill-summary](https://github.com/389273716/android-skill-summary) - Android 技能总结，各种基础和进阶内容的资料收集
 - [r0eXpeR/Online_Tools](https://github.com/r0eXpeR/Online_Tools) - 一些在线的工具,情报资源
@@ -2799,7 +2803,7 @@
 - [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [yhf7952/WubiGame](https://github.com/yhf7952/WubiGame) - 练习五笔输入法的小工具，包括字根练习、一级简码和二级简码
 - [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
