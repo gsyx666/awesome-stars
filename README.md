@@ -1780,6 +1780,7 @@
 
 ## Others 
 
+- [doggy8088/Learn-Git-in-30-days](https://github.com/doggy8088/Learn-Git-in-30-days) - 這是 Will 保哥在 2013 第 6 屆 iT 邦幫忙鐵人賽年度大獎的得獎著作【30 天精通 Git 版本控管】，歡迎大家 fork 我，如果有看見任何文字勘誤，也歡迎利用 pull request 來通知我修正，謝謝！
 - [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
 - [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources
@@ -2737,6 +2738,7 @@
 
 ## TypeScript 
 
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [kolplattformen/skolplattformen](https://github.com/kolplattformen/skolplattformen) - The source code to the civic tech project Öppna Skolplattformen.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
