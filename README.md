@@ -909,7 +909,7 @@
 - [VIPAPP-team/appmark](https://github.com/VIPAPP-team/appmark) - Mobile Android IDE
 - [filin1800870/Apktool](https://github.com/filin1800870/Apktool) - android
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
-- [Rosemoe/CodeEditor](https://github.com/Rosemoe/CodeEditor) - A cool code editor library on Android with syntax-highlighting and auto-completion.
+- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A cool code editor library on Android with syntax-highlighting and auto-completion.
 - [liuguangli/DexClassLoaderDemo](https://github.com/liuguangli/DexClassLoaderDemo) - 这是一个演示使用DexClassLoader加载apk中的class的例子
 - [henrymorgen/android-advanced-decode](https://github.com/henrymorgen/android-advanced-decode) - 《Android进阶解密》源码
 - [KagurazakaHanabi/XposedHider](https://github.com/KagurazakaHanabi/XposedHider) - 尽可能完美地隐藏 Xposed
@@ -1410,7 +1410,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
@@ -2326,6 +2326,7 @@
 
 ## Python 
 
+- [YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (SIGGRAPH Asia 2021)
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [RimoChan/steal_piano](https://github.com/RimoChan/steal_piano) - 【steal piano】GitHub偷情分析工具！
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -2455,7 +2456,7 @@
 - [kin9-0rz/apkutils](https://github.com/kin9-0rz/apkutils) - 一个解析APK相关文件的库，最新代码请参考gitee的工程或者pypi，github同步较慢。（后续会用kaitai来开发一个新库）
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
-- [RanaCyberLabs/elf_analysis](https://github.com/RanaCyberLabs/elf_analysis) - Perform Static and dynamic analysis on 32 bit ELF binary, and automate the process of stack based overflow exploitation.
+- [AshishRanaX/elf_analysis](https://github.com/AshishRanaX/elf_analysis) - Perform Static and dynamic analysis on 32 bit ELF binary, and automate the process of stack based overflow exploitation.
 - [ViRb3/apk-utilities](https://github.com/ViRb3/apk-utilities) - 🛠 Tools and scripts to manipulate Android APKs
 - [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Android Malware (Analysis | Scoring) System
 - [eliben/pyelftools](https://github.com/eliben/pyelftools) - Parsing ELF and DWARF in Python
