@@ -569,6 +569,7 @@
 
 ## Java 
 
+- [biezhi/write-readable-code](https://github.com/biezhi/write-readable-code) - 🗾 编写可读代码的艺术代码仓库
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [Oosl/ColorOSTool](https://github.com/Oosl/ColorOSTool) - 
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
@@ -909,7 +910,7 @@
 - [VIPAPP-team/appmark](https://github.com/VIPAPP-team/appmark) - Mobile Android IDE
 - [filin1800870/Apktool](https://github.com/filin1800870/Apktool) - android
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
-- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A cool code editor library on Android with syntax-highlighting and auto-completion.
+- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A cool code editor library on Android with syntax-highlighting and auto-completion. (aka CodeEditor)
 - [liuguangli/DexClassLoaderDemo](https://github.com/liuguangli/DexClassLoaderDemo) - 这是一个演示使用DexClassLoader加载apk中的class的例子
 - [henrymorgen/android-advanced-decode](https://github.com/henrymorgen/android-advanced-decode) - 《Android进阶解密》源码
 - [KagurazakaHanabi/XposedHider](https://github.com/KagurazakaHanabi/XposedHider) - 尽可能完美地隐藏 Xposed
@@ -1092,7 +1093,6 @@
 - [Angads25/android-filepicker](https://github.com/Angads25/android-filepicker) - Selecting directories/files made a lot easier.
 - [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 - [Horrarndoo/YiZhi](https://github.com/Horrarndoo/YiZhi) - MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [yilylong/HighLight-UserGuideView](https://github.com/yilylong/HighLight-UserGuideView) - 用户指引提示view，新特性高亮指示 HighLight
 - [FanChael/CommonPopupWindow](https://github.com/FanChael/CommonPopupWindow) - Popular popupwindow in the market and customized（Android通用弹窗-结合市面流行的弹窗样式+支持自定义布局).
 - [laishujie/ComicMTC_v2](https://github.com/laishujie/ComicMTC_v2) - 👉开源漫画📖项目，部分界面仿有妖气，Kotlin+MVVM+LiveData+协程+Retrofit。一起加油努力💪💪
@@ -1789,6 +1789,8 @@
 
 ## Others 
 
+- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
+- [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [vicky002/1000_Projects](https://github.com/vicky002/1000_Projects) - :sunglasses: Mega List of practical projects that one can solve in any programming language!
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [doggy8088/Learn-Git-in-30-days](https://github.com/doggy8088/Learn-Git-in-30-days) - 這是 Will 保哥在 2013 第 6 屆 iT 邦幫忙鐵人賽年度大獎的得獎著作【30 天精通 Git 版本控管】，歡迎大家 fork 我，如果有看見任何文字勘誤，也歡迎利用 pull request 來通知我修正，謝謝！
@@ -1846,7 +1848,7 @@
 - [jondot/awesome-weekly](https://github.com/jondot/awesome-weekly) - An "awesome" type curated list of quality weekly subscription newsletters from the software world
 - [KnightAndroid/AndroidStandardCode](https://github.com/KnightAndroid/AndroidStandardCode) - 一款不断自我迭代完善的Android开发代码规范
 - [shadowsocksrr/shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android) - A ShadowsocksR client for Android
-- [knownsec/404StarLink2.0-Galaxy](https://github.com/knownsec/404StarLink2.0-Galaxy) - 404StarLink Project - 推荐优质、有意义、有趣、坚持维护的安全开源项目
+- [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [zhedahht/OfferOrientedAlgorithms](https://github.com/zhedahht/OfferOrientedAlgorithms) - 《剑指Offer：数据结构与算法名企面试题精讲》
 - [linjiananallnt/SAI](https://github.com/linjiananallnt/SAI) - SAI,Securely aggregate information 一个Chrome插件，用于每天关注知名安全网站文章
 - [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) - 计算机的优秀课程
@@ -2326,6 +2328,7 @@
 
 ## Python 
 
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (SIGGRAPH Asia 2021)
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [RimoChan/steal_piano](https://github.com/RimoChan/steal_piano) - 【steal piano】GitHub偷情分析工具！
@@ -2333,7 +2336,7 @@
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球300所大学用于教学。
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
@@ -2376,7 +2379,7 @@
 - [hustcc/PyG2Plot](https://github.com/hustcc/PyG2Plot) - 🎨 Python3 binding for `@AntV/G2Plot` Plotting Library .
 - [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation
 - [marin-m/vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf) - A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol table (kallsyms)
